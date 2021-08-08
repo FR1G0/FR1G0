@@ -10,8 +10,9 @@ Currently fluent in C++, Java, C#, Python
 ### How to reach me
 ----
 
-[![An old rock in the desert](/images/envelope.svg) E-mail](mailto:josephfrgg@gmail.com)<br>
-[Linkedin](https://www.linkedin.com/in/joseph-frigo-877b75199/)
+[E-mail](mailto:josephfrgg@gmail.com)<br>
+[Linkedin](https://www.linkedin.com/in/joseph-frigo-877b75199/)<br>
+[HackerRank](https://www.hackerrank.com/FR1G0)<br>
 
 
 
