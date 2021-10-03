@@ -10,6 +10,7 @@ Currently fluent in C++, Java, C#, Python
 ### How to reach me
 ----
 
+[Website/CV](http://josephfrigo.great-site.net/Home/)<br>
 [E-mail](mailto:josephfrgg@gmail.com)<br>
 [Linkedin](https://www.linkedin.com/in/joseph-frigo-877b75199/)<br>
 [HackerRank](https://www.hackerrank.com/FR1G0)<br>
