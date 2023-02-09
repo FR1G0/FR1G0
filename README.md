@@ -2,15 +2,24 @@
 
 ### About me
 ---
-I'm a programmer & computer enthusiast from Italy, i've been passionate about computers ever since i was 8 years old when i picked up my first computer where i started exploring and tinkering with whatever i could find inside it.
+<b>Full Name</b>: Joseph Frigo <br>
+<b>Birth</b> : 13/04/2003 <br>
+<b>Occupation</b>: Student <br>
+<b>Currently Studying</b> : operating systems, full stack web development <br>
 
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-Really%20Good-cyan?style=for-the-badge&logo=cplusplus&logoColor=cyan)
+![Csharp](https://img.shields.io/badge/CSharp-Meh-green?style=for-the-badge&logo=csharp&logoColor=green)
+![Java](https://img.shields.io/badge/Java-Good-orange?style=for-the-badge&logo=java&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-Good-lime?style=for-the-badge&logo=python&logoColor=lime)
+![php](https://img.shields.io/badge/php-Really%20Good-purple?style=for-the-badge&logo=php&logoColor=purple)
+![nodejs](https://img.shields.io/badge/javascript-Average-yellow?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-Currently fluent in C++, Java, C#, Python
 
 ### How to reach me
 ----
 
-[Website/CV](http://josephfrigo.great-site.net/Home/)<br>
+[Website/CV]()<br>
 [E-mail](mailto:josephfrgg@gmail.com)<br>
 [Linkedin](https://www.linkedin.com/in/joseph-frigo-877b75199/)<br>
 [HackerRank](https://www.hackerrank.com/FR1G0)<br>
