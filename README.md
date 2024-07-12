@@ -9,7 +9,7 @@
 
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-Really%20Good-cyan?style=for-the-badge&logo=cplusplus&logoColor=cyan)
-![Csharp](https://img.shields.io/badge/CSharp-Meh-green?style=for-the-badge&logo=csharp&logoColor=green)
+![Csharp](https://img.shields.io/badge/CSharp-Good-green?style=for-the-badge&logo=csharp&logoColor=green)
 ![Java](https://img.shields.io/badge/Java-Good-orange?style=for-the-badge&logo=java&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-Good-lime?style=for-the-badge&logo=python&logoColor=lime)
 ![php](https://img.shields.io/badge/php-Really%20Good-purple?style=for-the-badge&logo=php&logoColor=purple)
