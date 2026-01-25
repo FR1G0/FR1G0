@@ -1,9 +1,6 @@
 # Welcome to **FR1G0**'s Github 💻🕵️‍♂️
 
-### How to reach me
-----
-
-[Website/CV](https://www.fr1g0.com)<br>
+[www.fr1g0.com](https://www.fr1g0.com)<br>
 [E-mail](mailto:josephfrgg@gmail.com)<br>
 [Linkedin](https://www.linkedin.com/in/joseph-frigo-877b75199/)<br>
 [HackerRank](https://www.hackerrank.com/FR1G0)<br>
