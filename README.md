@@ -15,15 +15,6 @@ parallel. Mostly full-stack web work today, moving toward embedded software and 
 - **BEng ICT, Embedded Software & IoT** · Turku AMK, Finland · 2024 – present
 - Building [fr1g0.com](https://www.fr1g0.com) — a hand-rolled PHP site backed by a headless WordPress
 
-### Working with
-
-| | |
-|---|---|
-| **Languages** | PHP · JavaScript · SQL · Bash |
-| **Web** | Tailwind CSS · WordPress |
-| **Data** | MySQL / MariaDB |
-| **Systems** | Linux · Apache · Git |
-
 ### Selected work
 
 | | |
@@ -31,7 +22,7 @@ parallel. Mostly full-stack web work today, moving toward embedded software and 
 | **myDashboard** | Cross-platform management software, delivered as a PWA |
 | **Lorenzo Pinton** | eCommerce storefront for a high-end fashion label |
 
-More at **[fr1g0.com/projects](https://www.fr1g0.com/projects/)** · notes and coursework at
+More at **[fr1g0.com/projects](https://www.fr1g0.com/projects/)** · studies at
 **[fr1g0.com/studies](https://www.fr1g0.com/studies/)**
 
 ### Elsewhere
