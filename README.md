@@ -1,26 +1,21 @@
 # Joseph Frigo
 
-**`FR1G0`** — Software developer based in Venice, Italy 🇮🇹 🇫🇮
+**`FR1G0`** — Software developer based in Venice, Italy & Turku Finland 🇮🇹 🇫🇮
 
 Computer Science undergraduate at Ca' Foscari Venice, studying ICT Engineering at Turku UAS in
-parallel. Mostly full-stack web work today, moving toward embedded software and IoT.
+parallel. Mostly full-stack web work currently, moving toward embedded software and IoT.
 
-**[www.fr1g0.com](https://www.fr1g0.com)**
+**[FR1G0.com](https://www.fr1g0.com)**
 
 ---
 
-### Currently
+### Education
 
 - **BSc Computer Science** · Università Ca' Foscari, Venice · 2024 – present
 - **BEng ICT, Embedded Software & IoT** · Turku AMK, Finland · 2024 – present
 - Building [fr1g0.com](https://www.fr1g0.com) — a hand-rolled PHP site backed by a headless WordPress
 
 ### Selected work
-
-| | |
-|---|---|
-| **myDashboard** | Cross-platform management software, delivered as a PWA |
-| **Lorenzo Pinton** | eCommerce storefront for a high-end fashion label |
 
 More at **[fr1g0.com/projects](https://www.fr1g0.com/projects/)** · studies at
 **[fr1g0.com/studies](https://www.fr1g0.com/studies/)**
